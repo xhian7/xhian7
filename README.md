@@ -37,18 +37,22 @@ In summary, I could help you with things related to the checked topics, and you 
 
 -------
 
-## 🎖 Boy Scout Badges
+## 🎖 Boy Scout Badges (Personal Achievements)
 
 -------
 
-- 🤖 API Rookie Builder: with **NodeJS** and **express**.
+- 🤖 API Rookie Builder: Serve a REST API with **NodeJS** and **express**.
 
-- 🤓 Contai*nerd*: professional skills on **docker** and **docker-compose**.
+- 🤓 Contai*nerd*: Get professional skills on **docker** and **docker-compose**.
 
-- ⚛️ I'm Radioactive: **reactivity** principles applied to libraries and frameworks such as **React, Angular, Vue,** etc.
+- ⚛️ I'm Radioactive: Learn **reactivity** principles applied to libraries and frameworks such as **React, Angular, Vue,** etc.
 
-- 🤑 SOLD!: made some custom ecommerce with payment platforms like **Stripe, PayPal or MercadoPago**.
+- 🤑 SOLD!: Make some custom ecommerce with payment platforms like **Stripe, PayPal or MercadoPago**.
 
-- 📈 D is for Databases: **SQL** and **ORM** manipulation.
+- 📈 D is for Databases: Learn about **SQL** and **ORM** manipulation.
 
-- 🍇 Hacking is Sweet: knowledge on **Linux** based systems (Raspberry Pi OS included) and **main tools**.
+- 🍇 Hacking is Sweet: Get knowledge on **Linux** based systems (Raspberry Pi OS included) and **main tools**.
+
+## Other achievements
+
+![alt text](/img/cg.jpg)
